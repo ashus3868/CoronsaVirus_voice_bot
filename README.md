@@ -26,3 +26,8 @@ translation = translator.translate("hello")
 This is convert the word hello in english to hindi.
 
 Rest you can download the code from here and further run it.
+
+Also you can check this video to see the practical implementation of the code:
+
+https://youtu.be/HO7NrhyAVjE
+
