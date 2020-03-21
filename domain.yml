@@ -1,0 +1,64 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - bot_challenge
+  - what_is_corona
+  - symptoms
+  - concern
+  - prevention
+  - Vaccination
+  - incubation
+
+actions:
+- utter_greet
+- utter_corona
+- utter_symptoms
+- utter_concern
+- utter_prevent
+- utter_incubation
+- utter_Vaccination
+- utter_thanks
+- utter_iamabot
+- utter_goodbye
+templates:
+  utter_greet:
+  - text: "Hey! How may I assist you?"
+
+  utter_corona:
+  - text: "COVID-19 is a new illness that can affect your lungs and airways.
+      It is caused by a virus called coronavirus. COVID-19 is the disease caused
+      by the new coronavirus that emerged in China in December 2019."
+
+  utter_symptoms:
+  - text: "COVID-19 symptoms includes Cough, Fever and Shortness of breath."
+
+  utter_concern:
+  - text: "yes, from the recent information indicates COVID-19 may be passed
+        from person to person. Community spread is being seen, also. Community
+        spread means people have been infected with the virus in a particular
+        area, including some people who are not sure how or where they became
+        infected. COVID-19 has been detected in people throughout China and
+        in over 100 other countries, including the United States."
+  utter_prevent:
+    - text: "Wash your hands frequently and thoroughly for at least 20 seconds,
+              Use alcohol-based hand sanitizer if soap and water aren’t available.
+            Cover coughs and sneezes with a tissue, then throw the tissue in the trash.
+            Avoid touching your eyes, nose or mouth with unwashed hands.
+            Stay home when you are sick.
+            Clean and disinfect surfaces and objects people frequently touch.
+            Cover your face with a mask to prevent yourself from getting in contact with coronavirus. "
+  utter_Vaccination:
+    - text: "Sorry, there is no vaccine."
+  utter_incubation:
+    - text: "It appears that symptoms are showing up in people within 14 days
+      of exposure to the virus."
+  utter_thanks:
+    - text: "You're welcome and Stay safe."
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
