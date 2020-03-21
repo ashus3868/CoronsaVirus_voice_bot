@@ -4,7 +4,7 @@ So this is a project to aware people to protect themselves from getting in conta
 
 To know how to build the basic chatbot using rasa you can check this link:
 
-http://innovateyourself.in/534-2/
+http://innovateyourself.in/building-an-end-to-end-conversational-chat-bot-cum-assistant-with-rasa/
 
 This project is a multilingual voice bot which will help you talk to your bot in the language yo know to spread awareness in any language.
 
