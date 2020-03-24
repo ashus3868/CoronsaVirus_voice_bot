@@ -4,7 +4,7 @@ So this is a project to aware people to protect themselves from getting in conta
 
 To know how to build the basic chatbot using rasa you can check this link:
 
-http://innovateyourself.in/534-2/
+http://innovateyourself.in/building-an-end-to-end-conversational-chat-bot-cum-assistant-with-rasa/
 
 This project is a multilingual voice bot which will help you talk to your bot in the language yo know to spread awareness in any language.
 
@@ -26,3 +26,8 @@ translation = translator.translate("hello")
 This is convert the word hello in english to hindi.
 
 Rest you can download the code from here and further run it.
+
+Also you can check this video to see the practical implementation of the code:
+
+https://youtu.be/HO7NrhyAVjE
+
