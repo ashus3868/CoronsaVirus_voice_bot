@@ -12,7 +12,7 @@
 * symptoms
   - utter_symptoms
 
-## prevention
+## preventions
 * prevention
   - utter_prevent
 
